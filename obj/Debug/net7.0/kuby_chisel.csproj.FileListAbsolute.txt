@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\bin\Debug\net7.0\kuby_chisel.exe
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\bin\Debug\net7.0\kuby_chisel.deps.json
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\bin\Debug\net7.0\kuby_chisel.runtimeconfig.json
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\bin\Debug\net7.0\kuby_chisel.dll
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\bin\Debug\net7.0\kuby_chisel.pdb
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\kuby_chisel.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\kuby_chisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\kuby_chisel.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\kuby_chisel.AssemblyInfo.cs
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\kuby_chisel.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\kuby_chisel.dll
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\refint\kuby_chisel.dll
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\kuby_chisel.pdb
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\kuby_chisel.genruntimeconfig.cache
+C:\Users\alex\geekbrains\c_sharp_5\kuby_chisel\obj\Debug\net7.0\ref\kuby_chisel.dll
